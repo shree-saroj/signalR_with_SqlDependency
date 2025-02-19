@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\hubs\\dashboardhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\hubs\\dashboardhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\subscribetabledependencies\\subscribeproducttabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\subscribetabledependencies\\subscribeproducttabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\repositories\\salereporisotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\repositories\\salereporisotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\middlewareextensions\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\middlewareextensions\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\subscribetabledependencies\\subscribesaletabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\subscribetabledependencies\\subscribesaletabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\subscribetabledependencies\\isubscribetabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\subscribetabledependencies\\isubscribetabledependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|d:\\personal\\learn\\asp.net\\signalr_with_sqldependency\\signalr_with_sqldependency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D9E0958-4264-407B-91C2-990959EAECE9}|signalR_with_SqlDependency\\signalR_with_SqlDependency.csproj|solutionrelative:signalr_with_sqldependency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscribeSaleTableDependency.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeSaleTableDependency.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeSaleTableDependency.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeSaleTableDependency.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeSaleTableDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:09:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleReporisotry.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Repositories\\SaleReporisotry.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Repositories\\SaleReporisotry.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Repositories\\SaleReporisotry.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Repositories\\SaleReporisotry.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:46:59.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\MiddlewareExtensions\\ApplicationBuilderExtension.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\MiddlewareExtensions\\ApplicationBuilderExtension.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\MiddlewareExtensions\\ApplicationBuilderExtension.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\MiddlewareExtensions\\ApplicationBuilderExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:12:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscribeProductTableDependency.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeProductTableDependency.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeProductTableDependency.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeProductTableDependency.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\SubscribeTableDependencies\\SubscribeProductTableDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:57:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\appsettings.json",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\appsettings.json",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\appsettings.json",
+              "RelativeToolTip": "signalR_with_SqlDependency\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T17:20:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Models\\Product.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Models\\Product.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:04:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:49:38.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardHub.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Hubs\\DashboardHub.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Hubs\\DashboardHub.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Hubs\\DashboardHub.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Hubs\\DashboardHub.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:28:02.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\wwwroot\\js\\Dashboard.js",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\wwwroot\\js\\Dashboard.js",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\wwwroot\\js\\Dashboard.js",
+              "RelativeToolTip": "signalR_with_SqlDependency\\wwwroot\\js\\Dashboard.js",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T16:32:26.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubscribeTableDependency.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\SubscribeTableDependencies\\ISubscribeTableDependency.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\SubscribeTableDependencies\\ISubscribeTableDependency.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\SubscribeTableDependencies\\ISubscribeTableDependency.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\SubscribeTableDependencies\\ISubscribeTableDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:30:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Program.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Program.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Program.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:25:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Models\\Sale.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Models\\Sale.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:42:56.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "signalR_with_SqlDependency\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T19:03:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwCsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T16:27:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "signalR_with_SqlDependency\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Personal\\Learn\\ASP.NET\\signalR_with_SqlDependency\\signalR_with_SqlDependency\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "signalR_with_SqlDependency\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:26:04.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
