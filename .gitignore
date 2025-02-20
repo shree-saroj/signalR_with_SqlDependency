@@ -357,6 +357,7 @@ healthchecksdb
 MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
+.vs/
 .ionide/
 
 # Fody - auto-generated XML schema
